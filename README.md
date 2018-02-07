@@ -7,4 +7,4 @@ Check my medium article here [Codable enuams at Medium.com](https://blog.untitle
 # BLE.playground
 Simple project presenting how to run the CBCentralManager on the MacOS Playground. Display found peripherals in the NSTableView.
 
-Chck my article here: [Swift plaground: Bluetooth Low Energy]()
+Check my article here: [Swift playground: Bluetooth Low Energy](https://blog.untitledkingdom.com/swift-playground-bluetooth-low-energy-8fe15eb2e6df)
